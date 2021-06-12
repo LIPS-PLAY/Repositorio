@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Lips.Play" name="LIPS.PLAY.REPO" version="1.5" provider-name="FELIPE VIANA"
+    <extension point="xbmc.addon.repository" name="Nome Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/LIPS-PLAY/Repositorio/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/LIPS-PLAY/Repositorio/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/LIPS-PLAY/Repositorio/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>LIPS PLAY REPO</summary>
+        <description>FILMES, SERIES, ANIMES, LANCAMENTOS 
+	COM OS DEMAIS GENEROS, ATUALIZAÇÕES
+	PODERÂO SER FEITAS SEMANALMENTE
+	OU MENSALMENTE SEM COBRANCA 
+	TOTALMETNE GRATUITO, O LIPS PLAY E UM ADD-ON 
+	QUE NAO POSSUI ENVOLVIMENTO COM O KODI 
+	OU KODI TEAM.PARA FAZER UMA DOAÇÃO 
+	BASTA CHAMA NO WHATSAPP.
+	+55(71)98740-0980
+	DOAÇÃO MINIMA DE R$2,00
+	PARA NOS AJUDA A MANTER O ADD-ON ONLINE</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
