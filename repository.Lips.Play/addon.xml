@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.Lips.Play" name="LIPS.PLAY.REPO" version="1.5" provider-name="FELIPE VIANA"
+<addon id="repository.Lips.Play" name="LIPS.PLAY.REPO" version="1.5" provider-name="FELIPE.VIANA"
     <extension point="xbmc.addon.repository" name="Nome Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/LIPS-PLAY/Repositorio/master/zips/addons.xml</info>
